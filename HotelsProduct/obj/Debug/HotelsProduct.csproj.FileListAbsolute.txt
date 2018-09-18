@@ -1,0 +1,8 @@
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\bin\Debug\HotelsProduct.dll.config
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\bin\Debug\HotelsProduct.dll
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\bin\Debug\HotelsProduct.pdb
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\bin\Debug\Newtonsoft.Json.dll
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\bin\Debug\Newtonsoft.Json.xml
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\obj\Debug\HotelsProduct.csproj.CoreCompileInputs.cache
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\obj\Debug\HotelsProduct.dll
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelsProduct\obj\Debug\HotelsProduct.pdb

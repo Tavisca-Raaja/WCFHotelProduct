@@ -1,0 +1,31 @@
+﻿[
+  {
+    "HotelId": 120,
+    "HotelName": "Hyatt",
+    "Address": "Viman nagar",
+    "StarRating": 4,
+    "Price": 3000
+  },
+  {
+    "HotelId": 121,
+    "HotelName": "The Residency",
+    "Address": "Coimbatore",
+    "StarRating": 5,
+    "Price": 8000
+  },
+  {
+    "HotelId": 122,
+    "HotelName": "IBIS",
+    "Address": "Viman nagar",
+    "StarRating": 3,
+    "Price": 4000
+  },
+  {
+    "HotelId": 123,
+    "HotelName": "FourPoints",
+    "Address": "Viman nagar",
+    "StarRating": 3,
+    "Price": 2000
+  }
+
+]
