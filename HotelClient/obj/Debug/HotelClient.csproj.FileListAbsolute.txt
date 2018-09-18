@@ -1,0 +1,7 @@
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\bin\Debug\HotelClient.exe.config
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\bin\Debug\HotelClient.exe
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\bin\Debug\HotelClient.pdb
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\obj\Debug\HotelClient.csproj.CoreCompileInputs.cache
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\obj\Debug\HotelClient.exe
+c:\users\rgouthaman\source\repos\HotelsProduct\HotelClient\obj\Debug\HotelClient.pdb
+C:\Users\rgouthaman\source\repos\HotelsProduct\HotelClient\obj\Debug\HotelClient.csprojResolveAssemblyReference.cache
